@@ -1,0 +1,12 @@
+{
+  "name": "rn-proxy",
+  "version": "1.0.0",
+  "description": "API proxy para Reginaldo Negocia",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
